@@ -2,12 +2,12 @@
 
 import { Container, Grid, Box } from '@mui/material';
 // import ProductCard from './components /ProductCard';
-import Promo from './components /promo/promo'
-import SaleBanner from './components /salebanner/salebanner'
-import ButtonGrid from './components /buttongrid/buttongrid';
-import InBloomBanner from './components /inbloombanner /inbloombanner';
-import GiftCardBanner from './components /giftcardbanner/giftcard'; 
-import ProductBanner from './components /products/productbanner'
+import Promo from './components/promo/promo'
+import SaleBanner from './components/salebanner/salebanner'
+import ButtonGrid from './components/buttongrid/buttongrid';
+import InBloomBanner from './components/inbloombanner/inbloombanner';
+import GiftCardBanner from './components/giftcardbanner/giftcard'; 
+import ProductBanner from './components/products/productbanner'
 // import GiftCardBanner from './components /GiftCardBanner';
 
 

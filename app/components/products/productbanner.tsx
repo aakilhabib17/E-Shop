@@ -1,6 +1,6 @@
 'use client';
 
-import ProductCard from '../../corecomponents /productcard/productcard';
+import ProductCard from '../../corecomponents/productcard/productcard';
 import { newArrivalsData } from './data';
 import './_productbanner.scss';
 

@@ -65,8 +65,8 @@ export default function HeaderMain() {
 
         {/* LOGO - CENTER */}
         <Link href="/" className="logo">
-          <div className="logo-main">FOOT STEPS</div>
-          <div className="logo-sub">LONDON</div>
+          <div className="logo-main">ISQUARE</div>
+          <div className="logo-sub">ERODE</div>
         </Link>
 
         {/* ICONS - RIGHT */}
