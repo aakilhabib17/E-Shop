@@ -1,4 +1,4 @@
-import { Product } from '../../corecomponents /productcard/types/product';
+import { Product } from '../../corecomponents/productcard/types/product';
 
 export const newArrivalsData: Product[] = [
   {
